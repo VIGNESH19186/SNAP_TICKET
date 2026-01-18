@@ -1,4 +1,5 @@
-# SNAP_TICKET
+#SNAP TICKE
+<html>
 import { useState, useEffect } from 'react';
 import { UnifiedHomePage } from '@/app/components/UnifiedHomePage';
 import { BusListing } from '@/app/components/BusListing';
@@ -187,6 +188,7 @@ function App() {
           onBackToHome={handleBackToHome}
         />
       )}
+      </html>
     </>
   );
 }
